@@ -5,3 +5,10 @@ letters in a plaintext or some shit like that and because it
 comes in the exam for 6-8 marks in alot of papers.
 */
 
+class Exp3
+{
+    public static void main(String[] args)
+    {
+        
+    }
+}
